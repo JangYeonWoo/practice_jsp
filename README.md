@@ -1,3 +1,3 @@
 # practice_jsp
 
-jps 실습
+JSP 실습
